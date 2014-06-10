@@ -8,12 +8,9 @@
 
 :package_description
 
-## Installing
+## Usage
 
-### Using Composer
-
-When using [Composer](https://getcomposer.org) you can always load in the latest version.
-Add the :package_name package to your `composer.json` file.
+### Installation
 
 ``` json
 {
@@ -22,9 +19,9 @@ Add the :package_name package to your `composer.json` file.
     }
 }
 ```
-Check [in Packagist](https://packagist.org/packages/jeroendesloovere/:package_name).
+> Adding this code in your `composer.json` file will get the [latest :package_name Packagist package](https://packagist.org/packages/jeroendesloovere/:package_name) using [Composer](https://getcomposer.org).
 
-### Usage example
+### Example
 
 ``` php
 use JeroenDesloovere\Skeleton;
@@ -33,9 +30,9 @@ $skeleton = new Skeleton();
 echo $skeleton->echoPhrase('Hello, World!');
 
 ```
-Check [the :package_title source](/src/) or [view all examples](/examples/example.php).
+> [View all examples](/examples/example.php) or check [the Wunderlist class](/src/).
 
-### Testing
+### Tests
 
 ``` bash
 $ phpunit
