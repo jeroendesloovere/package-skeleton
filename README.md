@@ -4,22 +4,9 @@
 [![Latest Stable Version](http://img.shields.io/packagist/v/jeroendesloovere/:package_name.svg)](https://packagist.org/packages/jeroendesloovere/:package_name)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/jeroendesloovere/:package_name/blob/master/LICENSE)
 
-## What is :package_title?
-
-> :package_description
-
-## What does this library do?
-
-XXX
+> :package_api_description
 
 :package_description
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installing
 
