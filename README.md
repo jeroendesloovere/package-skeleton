@@ -1,10 +1,16 @@
-# Package Skeleton
-
+# :package_title
 [![Build Status](http://img.shields.io/travis/jeroendesloovere/:package_name.svg)](https://travis-ci.org/jeroendesloovere/:package_name)
 [![Total Downloads](http://img.shields.io/packagist/dm/jeroendesloovere/:package_name.svg)](https://packagist.org/packages/jeroendesloovere/:package_name)
 [![Latest Stable Version](http://img.shields.io/packagist/v/jeroendesloovere/:package_name.svg)](https://packagist.org/packages/jeroendesloovere/:package_name)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/jeroendesloovere/:package_name/blob/master/LICENSE)
 
+## What is :package_title?
+
+> :package_description
+
+## What does this library do?
+
+XXX
 
 :package_description
 
@@ -15,9 +21,11 @@
 - [Credits](#credits)
 - [License](#license)
 
+## Installing
 
-## Installation
+### Using Composer
 
+When using [Composer](https://getcomposer.org) you can always load in the latest version.
 Add the :package_name package to your `composer.json` file.
 
 ``` json
@@ -27,8 +35,9 @@ Add the :package_name package to your `composer.json` file.
     }
 }
 ```
+Check [in Packagist](https://packagist.org/packages/jeroendesloovere/:package_name).
 
-## Usage
+### Usage example
 
 ``` php
 use JeroenDesloovere\Skeleton;
@@ -37,8 +46,9 @@ $skeleton = new Skeleton();
 echo $skeleton->echoPhrase('Hello, World!');
 
 ```
+Check [the :package_title source](/src/) or [view all examples](/examples/example.php).
 
-## Testing
+### Testing
 
 ``` bash
 $ phpunit
