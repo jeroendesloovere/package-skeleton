@@ -1,8 +1,7 @@
 # :package_title
-[![Build Status](http://img.shields.io/travis/jeroendesloovere/:package_name.svg)](https://travis-ci.org/jeroendesloovere/:package_name)
-[![Total Downloads](http://img.shields.io/packagist/dm/jeroendesloovere/:package_name.svg)](https://packagist.org/packages/jeroendesloovere/:package_name)
 [![Latest Stable Version](http://img.shields.io/packagist/v/jeroendesloovere/:package_name.svg)](https://packagist.org/packages/jeroendesloovere/:package_name)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/jeroendesloovere/:package_name/blob/master/LICENSE)
+[![Build Status](http://img.shields.io/travis/jeroendesloovere/:package_name.svg)](https://travis-ci.org/jeroendesloovere/:package_name)
 
 > :package_api_description
 
@@ -41,7 +40,6 @@ $ phpunit
 ## Documentation
 
 The class is well documented inline. If you use a decent IDE you'll see that each method is documented with PHPDoc.
-
 
 ## Contributing
 
