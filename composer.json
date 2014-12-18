@@ -1,5 +1,6 @@
 {
     "name": "jeroendesloovere/package-skeleton",
+	"type": "library",
     "description": "A skeleton package to use as a base",
     "keywords": ["skeleton"],
     "homepage": "https://github.com/jeroendesloovere/package-skeleton",
